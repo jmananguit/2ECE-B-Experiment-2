@@ -103,7 +103,7 @@ div_by_3 = b[modulo]
 print ('Elements Divisible by 3:')
 print(div_by_3)
 ```
-# Save array using file name 'div_by_3'
+#### Save array using file name 'div_by_3'
 ```python
 np.save('div_by_3', div_by_3)
 ```
