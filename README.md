@@ -6,7 +6,6 @@
 #####     Input Lower Range of Value: 1
 #####     Input Higher Range of Value: 10
 
-## Normalization Problem
 #### Start by importing numpy library to be able to use ndarrays
 ``` python
 import numpy as np
